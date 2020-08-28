@@ -2,8 +2,9 @@
 
 To run all the tests:
 
-npm install
-npm test
+`npm install` 
+
+`npm test`
 
 ## Problem
 
