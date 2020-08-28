@@ -1,4 +1,9 @@
+##Solution
 
+To run all the tests:
+
+npm install
+npm test
 
 ## Problem
 
